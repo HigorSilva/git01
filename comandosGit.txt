@@ -1,0 +1,4 @@
+git status
+git add . -> prepara alterações para o commit
+git commit -m  "Observações" -> prepara laterações para o push
+git push origin main -> sobe alterações para nuvem
